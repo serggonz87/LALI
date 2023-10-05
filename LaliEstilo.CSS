@@ -1,0 +1,11 @@
+header{color: darkmagenta;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;}
+
+    img:hover{filter:blur(5px)}
+
+    table, td{
+border-collapse: collapse;
+border: 1px;
+background-color: bisque;
+}
